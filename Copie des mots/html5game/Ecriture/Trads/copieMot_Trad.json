@@ -1,0 +1,98 @@
+{
+    "fr" : {
+        "mots" : {
+            "_0" : "Biche",
+            "_1" : "Bol",
+            "_2" : "pirate",
+            "_3" : "poule",
+            "_4" : "singe",
+            "_5" : "robe" ,
+            "_6" : "Lapin",
+            "_7" : "Piano" ,
+            "_8" : "Panda" ,
+            "_9" : "Sac" ,
+            "_10" :  "sirène",
+            "_11" : "Feuille" ,
+            "_12" : "forêt" ,
+            "_13" : "vélo", 
+            "_14" : "école" ,
+            "_15" : "poisson",
+            "_16" : "Tortue" ,
+            "_17" : "Licorne",
+            "_18" : "Robot" ,
+            "_19" : "Dragon" ,
+            "_20" : "Pizza" ,
+            "_21" : "Café",
+            "_22" : "sorcière",
+            "_23" : "Clown" ,
+            "_24" : "Échecs" ,
+            "_25" : "Loup",
+            "_26" : "dauphin" ,
+            "_27" : "Hibou",
+            "_28" : "château",
+            "_29" : "soleil"
+        },
+        
+        "ui_tools" : {
+            "lvl1" : "Facile",
+            "lvl2" : "Moyen",
+            "lvl3" : "Difficile",
+            "msg-bravo " : "Bravo",
+            "msg-rate " : "Raté",
+            "mot-rate" : "Mots Ratés",
+            "mot-trouve" : "Mots Trouvés",
+            "mot-bilan" : "TON BILAN"
+
+        }
+    },
+
+    "eng":{
+        
+        "mots" : {
+            "_0" : "doe",
+            "_1" : "Bowl",
+            "_2" : "pirate",
+            "_3" : "hen",
+            "_4" : "monkey",
+            "_5" : "dress" ,
+            "_6" : "rabbit",
+            "_7" : "Piano" ,
+            "_8" : "Panda" ,
+            "_9" : "bag" ,
+            "_10" : "mermaid",
+            "_11" : "leaf" ,
+            "_12" : "forest" ,
+            "_13" : "bicycle", 
+            "_14" : "school" ,
+            "_15" : "fish",
+            "_16" : "Turtle" ,
+            "_17" : "Licorn",
+            "_18" : "Robot" ,
+            "_19" : "Dragon" ,
+            "_20" : "Pizza" ,
+            "_21" : "coffee",
+            "_22" : "witch",
+            "_23" : "Clown" ,
+            "_24" : "chess" ,
+            "_25" : "wolf",
+            "_26" : "Dolphin" ,
+            "_27" : "owl",
+            "_28" : "castle",
+            "_29" : "sun"
+        },
+        
+        "ui_tools" : {
+            "lvl1" : "Easy",
+            "lvl2" : "Medium",
+            "lvl3" : "hard",
+            "msg-bravo " : "Corrects",
+            "msg-rate " : "Incorrect",
+            "mot-rate" : "Incorrects words",
+            "mot-trouve" : "corrects words",
+            "mot-bilan" : "YOUR BILAN"
+
+        }
+        
+    }
+    
+}
