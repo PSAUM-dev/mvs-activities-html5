@@ -1,0 +1,25 @@
+{
+    "activities" : [ 
+        
+        /* Activité 1 */
+        {
+            "code" : "conl",
+            "name" : "Connaissance des lettres",
+            "description" : "Ecoutes bien la lettre qui est prononcé et choisis le box qui correspond à la lettre prononcée",
+            "illustration" : "banner.png",
+            "stars" : 0,
+            "interface" : "conl"
+        },
+        
+        /* Activité 2 */
+        {
+            "code" : "msyl",
+            "name" : "Reconnaissance des mots",
+            "description" : "Relies les mots avec les images qui y correspondent !",
+            "illustration" : "banner.png",
+            "stars" : 0,
+            "interface" : "msyl"
+        }
+        
+    ]
+}

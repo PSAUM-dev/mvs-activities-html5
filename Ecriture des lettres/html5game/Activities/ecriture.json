@@ -1,0 +1,15 @@
+{
+    "activities" : [ 
+        
+        /* Activité 1 */
+        {
+            "code" : "copiemot",
+            "name" : "Copies des mots",
+            "description" : "Ecris le mot que tu entends",
+            "illustration" : "banner.png",
+            "stars" : 0,
+            "interface" : "copiemot"
+        }
+        
+    ]
+}
